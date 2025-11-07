@@ -1,0 +1,24 @@
+.main-block {
+    box-sizing: border-box;
+    background: #80808033;
+    max-width: 1300px;
+    max-height: 500px;
+    border: 1px solid #000000;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    overflow: scroll;
+}
+
+.block {
+    box-sizing: border-box;
+    background: #ddc085;
+    max-width: 250px;
+    max-height: 200px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 5px 0px;
+    padding: 20px 15px;
+    margin: 5px;
+    display: inline-block;
+}
+
